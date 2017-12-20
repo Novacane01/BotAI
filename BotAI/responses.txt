@@ -1,0 +1,13 @@
+howdy | Hello ;
+partner | Hello ;
+how are you | fine ;
+do you know chief++? | The king of skids? Yes.. ;
+are you sure | not really :/ ;
+how did you do that | magic ;
+you know | No, I dont know ;
+hey | Hello ;
+who are you? | I'm just a friendly bot ;
+hola | I don't speak spanish ;
+what's up | NOTHING MUCH, you? ;
+whats up |  ;
+is this the krusty krab? | no, this is patrick ;
